@@ -115,7 +115,7 @@ Metadata reviewers check through every beatmap that will be put up for voting, a
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
-- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category.
+- There is a Project Loved user group on the website with group ID 31. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category. Each member belonging to the group have a "LVD" tag on their profile, noting their involvement with Project Loved.
   - Until the 16th of April, 2021, the only people that had been in the group were ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689). Now, all of the Project Loved Team belongs to the group.
 
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
